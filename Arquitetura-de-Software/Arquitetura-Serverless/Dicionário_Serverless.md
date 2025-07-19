@@ -1,0 +1,7 @@
+- Funções Serverless (Lambda/Functions): pequenas unidades de códigos que executam uma tarefa especifica em resposta a um evento/gatilho. Executa tarefas de forma escalável e independentes. Utilizado em um estrutura modular, ideal para pipelines.
+- Eventos/Gatilho: é algo que ocorre para gerar a execução de uma função de maneira modular, onde o gatilho seria a regra que caso todas as regras sejam atendidas a mesma será considerada um evento e executara a função.
+- API Gateway: utilizado para criar/expor endpoints http público ligados ao serverless para receber requisições, basicamente um get que referencia a conexão a uma função.
+- Filas e Mensagerias: utilizado para gerar um lote/fila de processamentos necessários a serem realizados após o último lote/fila ser terminado.
+- Orquestração: utilizado para gerenciar toda a execução de funções serverless.
+- Armazenamento de dados: serviços de armazenamento para guardar informações.
+- Banco de dados Serverless: semelhante a um banco de dados comum, mas utilizado especificamente devido seu nível de escala e elasticidade.

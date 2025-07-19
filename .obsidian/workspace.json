@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "d6f49754a72a6af8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b7fbf376bbbca1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c440de22ee824916",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfd5edff28b536d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f78a669ab206a942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbf3feaf3db62570",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e0438bfc4e3c7c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "89298d67380b3d16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e3f19a5744dacdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cbdf83b99b9a89a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c29d6e33e3f67fcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "b61f6b90bd38eaa2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "f026b02e022af5f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee5a751604197dfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c440de22ee824916",
+  "lastOpenFiles": [
+    "Arquitetura-de-Software/Arquitetura-Serverless/Caderno_de_Anotações.md",
+    "Arquitetura-de-Software/Arquitetura-Serverless",
+    "Untitled",
+    "Arquitetura-de-Software/Arquitetura-Serverless/Dicionário_Serverless.md",
+    "Arquitetura-de-Software/Arquitetura-Serverless/Consultas_IA.md",
+    "Arquitetura de Software/Segundo Módulo.md",
+    "Arquitetura-de-Software",
+    "Welcome.md"
+  ]
+}
