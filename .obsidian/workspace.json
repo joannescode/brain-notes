@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b7fbf376bbbca1b",
+        "id": "7c41810a15a09ca9",
         "type": "tabs",
         "children": [
           {
-            "id": "c440de22ee824916",
+            "id": "215aeb3d02e38e5e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,14 +161,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c440de22ee824916",
+  "active": "215aeb3d02e38e5e",
   "lastOpenFiles": [
+    "Automation/quadro de perguntas.png",
+    "Automation/Métricas Business Case.md",
+    "Automation/Lean Thinking.md",
+    "image (1) 1.png",
+    "Kanban.md",
+    "Automation",
+    "2025-07-21.md",
     "Arquitetura-de-Software/Arquitetura-Serverless/Caderno_de_Anotações.md",
     "Arquitetura-de-Software/Arquitetura-Serverless",
-    "Untitled",
     "Arquitetura-de-Software/Arquitetura-Serverless/Dicionário_Serverless.md",
     "Arquitetura-de-Software/Arquitetura-Serverless/Consultas_IA.md",
     "Arquitetura de Software/Segundo Módulo.md",
