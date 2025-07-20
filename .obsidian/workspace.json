@@ -11,10 +11,14 @@
             "id": "cada8a772db21938",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Arquitetura de Software/Arquitetura Serverless/Caderno de Anotações.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Caderno de Anotações"
             }
           }
         ]
@@ -176,31 +180,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0a8272dd4b1a040",
+  "active": "fbf3feaf3db62570",
   "lastOpenFiles": [
-    "Kanban.md",
+    "Arquitetura de Software/Arquitetura Serverless/Consultas IA.md",
+    "Arquitetura de Software/Arquitetura Serverless/Dicionário Serverless.md",
+    "Automation/quadro de perguntas.png",
+    "Automation/Métricas Business Case.md",
+    "Automation/Lean Thinking.md",
+    "Linux/img/unix-filesystem.svg",
     "Linux/Comandos Intermediários & Avançados.md",
+    "Linux/Operadores e Meta caracteres.md",
+    "Linux/Estrutura de diretórios.md",
+    "Kanban.md",
     "Linux/img/comandos/find.png",
     "Linux/img/comandos/grep.png",
     "Linux/img/comandos/locate.png",
     "Linux/img/comandos",
-    "Linux/img/unix-filesystem.svg",
     "Linux/img",
-    "Linux/Operadores_e_Meta caracteres.md",
-    "Linux/Estrutura_de_diretorios.md",
-    "Arquitetura-de-Software/Arquitetura-Serverless/Caderno_de_Anotações.md",
+    "Arquitetura de Software/Arquitetura Serverless/Caderno de Anotações.md",
     "Linux",
-    "Arquitetura-de-Software/Arquitetura-Serverless/Consultas_IA.md",
-    "Automation/quadro_de_perguntas.png",
-    "Automation/Métricas_Business_Case.md",
-    "Automation/Lean_Thinking.md",
     "image (1) 1.png",
     "Automation",
     "2025-07-21.md",
-    "Arquitetura-de-Software/Arquitetura-Serverless",
-    "Arquitetura-de-Software/Arquitetura-Serverless/Dicionário_Serverless.md",
+    "Arquitetura de Software/Arquitetura Serverless",
     "Arquitetura de Software/Segundo Módulo.md",
-    "Arquitetura-de-Software",
+    "Arquitetura de Software",
     "Welcome.md"
   ]
 }
