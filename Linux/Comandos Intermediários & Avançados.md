@@ -1,0 +1,5 @@
+- Locate, utilizado para localizar diversos arquivos/diretórios independente de sua localização, o locate se baseia em um banco de dados local que sincroniza todos os arquivos/diretórios presentes no sistema, usar updatedb como sudo para atualizar o banco de dados.![[locate.png]]
+- Grep, utilizado em conjunto com outros comandos de localização de arquivos, serve para filtrar arquivos que tenha o conteúdo especifico, exemplo locate services | grep Makefie.![[grep.png]]
+- Find, se torna útil quando passado com diversos parâmetros para filtrar a localização, exemplo: find /etc -iname '(asteristico)passwd(asteristico)'.![[find.png]]
+- Compactar em .tar > tar -cvzf file.tar.gz /diretório/a/ser/compactado ou arquivo. Descompactar do .tar > tar -xvf file.tar.gz usar -C e passar o diretório para mudar o local de descompactação.
+- Para descompactar um único arquivo, usar tar --extract --file=file.tar.gz /diretório/para/o/único/arquivo

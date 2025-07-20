@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c41810a15a09ca9",
+        "id": "719ac6945d5a1253",
         "type": "tabs",
         "children": [
           {
-            "id": "215aeb3d02e38e5e",
+            "id": "cada8a772db21938",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 225.5
   },
   "right": {
     "id": "1e3f19a5744dacdf",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Linux/Estrutura de diretórios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Estrutura de diretórios"
             }
           },
           {
@@ -138,21 +138,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Linux/Comandos Intermediários & Avançados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Comandos Intermediários & Avançados"
+            }
+          },
+          {
+            "id": "a0a8272dd4b1a040",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,22 +172,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "215aeb3d02e38e5e",
+  "active": "a0a8272dd4b1a040",
   "lastOpenFiles": [
-    "Automation/quadro de perguntas.png",
-    "Automation/Métricas Business Case.md",
-    "Automation/Lean Thinking.md",
-    "image (1) 1.png",
     "Kanban.md",
+    "Linux/Comandos Intermediários & Avançados.md",
+    "Linux/img/comandos/find.png",
+    "Linux/img/comandos/grep.png",
+    "Linux/img/comandos/locate.png",
+    "Linux/img/comandos",
+    "Linux/img/unix-filesystem.svg",
+    "Linux/img",
+    "Linux/Operadores_e_Meta caracteres.md",
+    "Linux/Estrutura_de_diretorios.md",
+    "Arquitetura-de-Software/Arquitetura-Serverless/Caderno_de_Anotações.md",
+    "Linux",
+    "Arquitetura-de-Software/Arquitetura-Serverless/Consultas_IA.md",
+    "Automation/quadro_de_perguntas.png",
+    "Automation/Métricas_Business_Case.md",
+    "Automation/Lean_Thinking.md",
+    "image (1) 1.png",
     "Automation",
     "2025-07-21.md",
-    "Arquitetura-de-Software/Arquitetura-Serverless/Caderno_de_Anotações.md",
     "Arquitetura-de-Software/Arquitetura-Serverless",
     "Arquitetura-de-Software/Arquitetura-Serverless/Dicionário_Serverless.md",
-    "Arquitetura-de-Software/Arquitetura-Serverless/Consultas_IA.md",
     "Arquitetura de Software/Segundo Módulo.md",
     "Arquitetura-de-Software",
     "Welcome.md"

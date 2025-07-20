@@ -13,4 +13,4 @@
 - Redução de riscos, entender o quão alto é a chance de erro e o impacto do erro quando feito manualmente e com isso saberemos o impacto da automação padronizada.
 - É possível também medir através de métricas qualitativas, que impactam diretamente no produto da empresa e ou na satisfação do cliente.
 
-![[quadro de perguntas.png]]
+![[quadro_de_perguntas.png]]
