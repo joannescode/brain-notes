@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "719ac6945d5a1253",
+        "id": "100bfa7f1a38fe3a",
         "type": "tabs",
         "children": [
           {
-            "id": "cada8a772db21938",
+            "id": "7391fc35783f15d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Arquitetura de Software/Arquitetura Serverless/Caderno de Anotações.md",
-                "mode": "source",
-                "source": false
+                "file": "Wellbe/Mapa de Entregas.canvas",
+                "viewState": {
+                  "x": -317,
+                  "y": 220,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Caderno de Anotações"
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa de Entregas"
             }
           }
         ]
@@ -166,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,25 +186,31 @@
   },
   "active": "fbf3feaf3db62570",
   "lastOpenFiles": [
+    "Arquitetura de Software/DevSecOps/DevOps para leigos - Livro.md",
+    "Wellbe/Mapa de Entregas.canvas",
+    "Untitled.md",
+    "Kanban.md",
+    "Arquitetura de Software/DevSecOps/Motivos da Existência e Aplicação.md",
+    "Arquitetura de Software/DevSecOps",
+    "Wellbe",
+    "Arquitetura de Software/Arquitetura Serverless/Caderno de Anotações.md",
     "Arquitetura de Software/Arquitetura Serverless/Consultas IA.md",
     "Arquitetura de Software/Arquitetura Serverless/Dicionário Serverless.md",
-    "Automation/quadro de perguntas.png",
-    "Automation/Métricas Business Case.md",
-    "Automation/Lean Thinking.md",
+    "Automações/quadro de perguntas.png",
+    "Automações/Métricas Business Case.md",
+    "Automações/Lean Thinking.md",
     "Linux/img/unix-filesystem.svg",
     "Linux/Comandos Intermediários & Avançados.md",
     "Linux/Operadores e Meta caracteres.md",
     "Linux/Estrutura de diretórios.md",
-    "Kanban.md",
     "Linux/img/comandos/find.png",
     "Linux/img/comandos/grep.png",
     "Linux/img/comandos/locate.png",
     "Linux/img/comandos",
     "Linux/img",
-    "Arquitetura de Software/Arquitetura Serverless/Caderno de Anotações.md",
     "Linux",
     "image (1) 1.png",
-    "Automation",
+    "Automações",
     "2025-07-21.md",
     "Arquitetura de Software/Arquitetura Serverless",
     "Arquitetura de Software/Segundo Módulo.md",
