@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "100bfa7f1a38fe3a",
+        "id": "bf6ffb2dd4ecb4b8",
         "type": "tabs",
         "children": [
           {
-            "id": "7391fc35783f15d8",
+            "id": "28a399bb4823b38c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Wellbe/Mapa de Entregas.canvas",
-                "viewState": {
-                  "x": -317,
-                  "y": 220,
-                  "zoom": 0
-                }
+                "file": "Automações/Airflow/Airflow Conceitos e Práticas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mapa de Entregas"
+              "icon": "lucide-file",
+              "title": "Airflow Conceitos e Práticas"
             }
           }
         ]
@@ -184,12 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbf3feaf3db62570",
+  "active": "28a399bb4823b38c",
   "lastOpenFiles": [
-    "Arquitetura de Software/DevSecOps/DevOps para leigos - Livro.md",
     "Wellbe/Mapa de Entregas.canvas",
-    "Untitled.md",
     "Kanban.md",
+    "Automações/Airflow/Airflow Conceitos e Práticas.md",
+    "Automações/Airflow",
+    "Airflow",
+    "Arquitetura de Software/DevSecOps/DevOps para leigos - Livro.md",
+    "Untitled.md",
     "Arquitetura de Software/DevSecOps/Motivos da Existência e Aplicação.md",
     "Arquitetura de Software/DevSecOps",
     "Wellbe",
