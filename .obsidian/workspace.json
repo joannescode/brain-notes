@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf6ffb2dd4ecb4b8",
+        "id": "d0f9810371b8f258",
         "type": "tabs",
         "children": [
           {
-            "id": "28a399bb4823b38c",
+            "id": "2e7aa048ed43281f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,11 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28a399bb4823b38c",
+  "active": "2e7aa048ed43281f",
   "lastOpenFiles": [
+    "Automações/Airflow/Airflow UI.md",
+    "Automações/Airflow/Airflow Conceitos e Práticas.md",
+    "Wellbe/bkp/Mapa de Entregas.canvas",
+    "Wellbe/bkp",
     "Wellbe/Mapa de Entregas.canvas",
     "Kanban.md",
-    "Automações/Airflow/Airflow Conceitos e Práticas.md",
     "Automações/Airflow",
     "Airflow",
     "Arquitetura de Software/DevSecOps/DevOps para leigos - Livro.md",
@@ -214,7 +217,6 @@
     "2025-07-21.md",
     "Arquitetura de Software/Arquitetura Serverless",
     "Arquitetura de Software/Segundo Módulo.md",
-    "Arquitetura de Software",
     "Welcome.md"
   ]
 }

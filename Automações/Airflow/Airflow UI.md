@@ -1,0 +1,3 @@
+- Podemos acessar os detalhes das Dags implementadas e executadas clicando nelas;
+- É possível ler todo o log gerado durante sua execução ao clicar em uma das dag executadas;
+- Também conseguimos ler o código da aplicação presente dentro da DAG, todo código atualizado dentro da DAG tem sua visualização atualizada dentro de 30 segundos.
