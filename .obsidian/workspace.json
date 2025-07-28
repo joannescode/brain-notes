@@ -8,17 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e7aa048ed43281f",
+            "id": "39da30107c6925a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Automações/Airflow/Airflow Conceitos e Práticas.md",
-                "mode": "source",
-                "source": false
+                "file": "Wellbe/Mapa de Entregas.canvas",
+                "viewState": {
+                  "x": -697,
+                  "y": 387,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Airflow Conceitos e Práticas"
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa de Entregas"
             }
           }
         ]
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "1e3f19a5744dacdf",
@@ -181,17 +185,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e7aa048ed43281f",
+  "active": "39da30107c6925a4",
   "lastOpenFiles": [
-    "Automações/Airflow/Airflow UI.md",
-    "Automações/Airflow/Airflow Conceitos e Práticas.md",
-    "Wellbe/bkp/Mapa de Entregas.canvas",
-    "Wellbe/bkp",
+    "Arquitetura de Software/DevSecOps/DevOps para leigos - Livro.md",
+    "Wellbe/Projeto Baixa Fatura.canvas",
     "Wellbe/Mapa de Entregas.canvas",
+    "Wellbe/Untitled.md",
     "Kanban.md",
+    "Pasted image 20250727171606.png",
+    "Automações/Airflow/Airflow Conceitos e Práticas.md",
+    "Automações/Airflow/Airflow UI.md",
+    "Wellbe/bkp",
     "Automações/Airflow",
     "Airflow",
-    "Arquitetura de Software/DevSecOps/DevOps para leigos - Livro.md",
     "Untitled.md",
     "Arquitetura de Software/DevSecOps/Motivos da Existência e Aplicação.md",
     "Arquitetura de Software/DevSecOps",
