@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d0f9810371b8f258",
+        "id": "77bf19d495f7fa40",
         "type": "tabs",
         "children": [
           {
-            "id": "39da30107c6925a4",
+            "id": "29f47b965c4b9c26",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Wellbe/Mapa de Entregas.canvas",
-                "viewState": {
-                  "x": -697,
-                  "y": 387,
-                  "zoom": 0
-                }
+                "file": "Arquitetura de Software/Deploy/Docker/Docker & Containers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mapa de Entregas"
+              "icon": "lucide-file",
+              "title": "Docker & Containers"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "1e3f19a5744dacdf",
@@ -185,27 +181,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39da30107c6925a4",
+  "active": "fbf3feaf3db62570",
   "lastOpenFiles": [
-    "Arquitetura de Software/DevSecOps/DevOps para leigos - Livro.md",
+    "Arquitetura de Software/Deploy/Docker/Variáveis de Ambiente.png",
+    "Arquitetura de Software/Deploy/Docker/Docker & Containers.md",
+    "Variáveis de Ambiente.md",
+    "Pasted image 20250805134134.png",
+    "Pasted image 20250805134136.png",
+    "Arquitetura de Software/Boas Práticas/Depuração de Código.md",
+    "Arquitetura de Software/Boas Práticas/recomendações sobre depuração.png",
+    "Arquitetura de Software/Boas Práticas",
+    "Automações/quadro de perguntas.png",
+    "Arquitetura de Software/Deploy/Docker",
+    "Arquitetura de Software/Deploy",
     "Wellbe/Projeto Baixa Fatura.canvas",
     "Wellbe/Mapa de Entregas.canvas",
+    "Arquitetura de Software/DevSecOps/Motivos da Existência e Aplicação.md",
+    "Arquitetura de Software/DevSecOps/DevOps para leigos - Livro.md",
     "Wellbe/Untitled.md",
     "Kanban.md",
     "Pasted image 20250727171606.png",
-    "Automações/Airflow/Airflow Conceitos e Práticas.md",
-    "Automações/Airflow/Airflow UI.md",
+    "Arquitetura de Software/Deploy/Airflow/Airflow Conceitos e Práticas.md",
+    "Arquitetura de Software/Deploy/Airflow/Airflow UI.md",
     "Wellbe/bkp",
-    "Automações/Airflow",
+    "Arquitetura de Software/Deploy/Airflow",
     "Airflow",
     "Untitled.md",
-    "Arquitetura de Software/DevSecOps/Motivos da Existência e Aplicação.md",
     "Arquitetura de Software/DevSecOps",
     "Wellbe",
     "Arquitetura de Software/Arquitetura Serverless/Caderno de Anotações.md",
     "Arquitetura de Software/Arquitetura Serverless/Consultas IA.md",
     "Arquitetura de Software/Arquitetura Serverless/Dicionário Serverless.md",
-    "Automações/quadro de perguntas.png",
     "Automações/Métricas Business Case.md",
     "Automações/Lean Thinking.md",
     "Linux/img/unix-filesystem.svg",
@@ -217,11 +223,7 @@
     "Linux/img/comandos/locate.png",
     "Linux/img/comandos",
     "Linux/img",
-    "Linux",
-    "image (1) 1.png",
-    "Automações",
     "2025-07-21.md",
-    "Arquitetura de Software/Arquitetura Serverless",
     "Arquitetura de Software/Segundo Módulo.md",
     "Welcome.md"
   ]

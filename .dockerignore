@@ -1,0 +1,65 @@
+# Ambientes virtuais
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+*.pid
+
+# Pastas de backup
+backup/
+backups/
+**/backup/
+**/backups/
+bkp/
+**/bkp/
+
+# Diretórios de download (evita copiar arquivos grandes do Selenium)
+downloads/
+**/downloads/
+tmp/
+temp/
+
+# Arquivos de configuração sensíveis
+.env
+.env.local
+*.pem
+*.key
+
+# Artifacts de build ou testes
+dist/
+build/
+*.egg-info/
+coverage/
+htmlcov/
+
+# Pastas que NÃO queremos copiar (mas vamos copiar seletivamente no Dockerfile)
+# Exemplo: evita cópia acidental de coisas não usadas
+docs/
+tests/
+test_*.py
+*_test.py
+
+# Ignora outros Dockerfiles ou arquivos de CI não necessários
+Dockerfile.dev
+Dockerfile.old
+docker-compose.yml
+.dockerignore
+.gitignore
+README.md
+LICENSE
