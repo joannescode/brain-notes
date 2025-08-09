@@ -19,11 +19,9 @@
 - O container é como se fosse a camada "física" acessível para a execução da imagem final, ou seja a mesma contempla todas as camadas formando o conjunto da imagem em si.
 
 ## Boas práticas
-
 No Dockerfile é onde vamos escrever as instruções para criar a imagem que, posteriormente, será usada para criar um container.
 
 Algumas boas práticas:
-
 1. Mantenha os containers _ephemerals,_ isto é, que você possa parar, reiniciar e ele continue funcionando sem maiores problemas.
 2. Seguir o princípio 6 do 12 factor app. O processo deve ser stateless, e qualquer persistência precisa ser feito em alguma aplicação que mantém o estado, mais comumente uma database.
 3. Não inclua arquivos desnecessários no seu Dockerfile, isso pode resultar em falhas de segurança e aumento no tamanho da imagem.
